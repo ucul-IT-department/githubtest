@@ -1,3 +1,3 @@
 <?php
-// 原内容
+// 代码：第一次迭代测试
 require './ThinkPHP/ThinkPHP.php';
