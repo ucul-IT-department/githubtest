@@ -1,3 +1,3 @@
 <?php
-// 代码：第二次迭代测试
+// 代码：回滚迭代测试
 require './ThinkPHP/ThinkPHP.php';
